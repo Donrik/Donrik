@@ -1,5 +1,4 @@
 - 👋 Hi, I'm @Donrik
-- 📚 Currently learning Software Engineering #ALX_AFRICA
 - 👨‍💻 Focused on mastering Dart and Flutter for mobile application development
 - 👀 Looking to collaborate on exciting mobile app projects using Dart and Flutter
 - 🎨 Designing beautful UIs on Figma with a focus on UX
